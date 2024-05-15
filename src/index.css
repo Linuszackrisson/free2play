@@ -7,3 +7,18 @@
     padding: 0;
     
 }
+
+.wrapper {
+    width: 1200px;
+    margin: auto;
+    
+}
+
+#root {
+    background-color: #121212;
+    font-family: 'poppins', sans-serif;
+}
+
+#root p {
+    font-family: 'mulish', sans-serif; 
+}
